@@ -1,1 +1,5 @@
 /target
+.env
+.temp
+.db
+addfile.txt
